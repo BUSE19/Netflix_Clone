@@ -3,7 +3,7 @@
 ## Project Demo
 
 <video width="600" controls>
-  <source src="assets/images/Android_Emulator_Pixel_2_API_30_5554_2024-08-01_11-21-09.mp4" type="video/mp4">
+  <source src="assets/images/Android%20Emulator%20-%20Pixel_2_API_30_5554%202024-08-01%2011-21-09.mp4">
   Your browser does not support the video tag.
 </video>
 
