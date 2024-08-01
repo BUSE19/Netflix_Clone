@@ -1,7 +1,12 @@
 # Netflix_Clone
-## Demo Video
 
-![AndroidEmulator-Pixel_2_API_30_55542024-08-0111-21-09-ezgif com-optimize](https://github.com/user-attachments/assets/988986a3-c61b-4bec-8ba6-b6fb046526af)
+## Project Demo
+
+<video width="600" controls>
+  <source src="assets/images/Android_Emulator_Pixel_2_API_30_5554_2024-08-01_11-21-09.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 Features
 Browse popular movies
