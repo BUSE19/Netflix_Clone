@@ -1,7 +1,7 @@
 # Netflix_Clone
 ## Demo Video
 
-![Demo Video](assets/demo.gif)
+![Demo Video](assets/images/demo.gif)
 
 Features
 Browse popular movies
