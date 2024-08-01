@@ -1,7 +1,7 @@
 # Netflix_Clone
 ## Demo Video
 
-![Demo Video](assets/images/demo.gif)
+![Demo Video](assets\images\AndroidEmulator-Pixel_2_API_30_55542024-08-0111-21-09-ezgif.com-optimize.gif)
 
 Features
 Browse popular movies
